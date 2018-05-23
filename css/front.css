@@ -1,0 +1,7 @@
+body{background-color:#d7d7d7;}
+
+body nav h1{width:400px;height: 50px;}
+body nav button[name="register"]{width: 200px;height: 40px; position: relative;left: 80%;top: -50px;}
+
+body .carousel slide carousel-fade{width: 300px;height: 140px;}
+.wanna{position: relative;left: 20%;width: 1000px; }
